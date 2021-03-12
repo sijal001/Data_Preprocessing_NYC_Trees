@@ -79,7 +79,7 @@ nyc-trees
 ![IndividualCorrelation](data_visualization/Single_column_correlation.png)
 
 3. Data distribution visualization of any individual column of your choice
-![Single_Distribution](data_visualization/Single_Distribution.png)
+![Single_distribution](data_visualization/Single_distribution.png)
 
 
 
