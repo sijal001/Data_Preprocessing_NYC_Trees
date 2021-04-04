@@ -2,7 +2,7 @@
 ---
 
 
-- Repository: `nyc-trees`
+- Repository: `Data_Preprocessing_NYC_Trees`
 - Type of Challenge: `Learning`
 - Duration: `1 day`
 - Deadline: `12/03/2021 04:00 PM`
